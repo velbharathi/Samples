@@ -1,0 +1,12 @@
+.container {
+  padding: 6px;
+  width: 80%;
+  border-radius: 4px;
+  outline: none;
+  border: 1px solid #d5d0d0;
+  transition: 0.2s linear;
+}
+
+.container:focus {
+  border: 1px solid #4a96ec;
+}
